@@ -29,20 +29,22 @@ The project is divided into two main components:
 ### Getting Started with Frontend
 
 1. Navigate to the frontend directory:
+```bash
+
    cd Ecommerece-front
    ```
 
 2. Install dependencies:
    npm install
-   ```
+
 
 3. Start the development server:
    npm run dev
-   ```
+   
 
 4. Build for production:
    npm run build
-   ```
+   
 
 ## Backend (Backend_prj)
 
@@ -66,15 +68,15 @@ The project is divided into two main components:
 
 1. Navigate to the backend directory:
    cd Backend_prj
-   ```
+   
 
 2. Build the project using Maven:
    mvn clean install
-   ```
+   
 
 3. Run the application:
    mvn spring-boot:run
-   ```
+   
 
 ## API Documentation
 
